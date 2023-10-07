@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marutitaluru
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning AI and ML in python
+- 🌱 I’m currently working on AI and ML in python
 - 💞️ I’m looking to collaborate in finding solutions in the field of Aerospace using AI & ML
 - 📫 How to reach me maruti.taluru@gmail.com
 
